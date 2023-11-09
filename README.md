@@ -12,4 +12,4 @@ Numbers tell stories, and I'm here to decode them. Whether it's natural language
 ### 🎨 Art Lover
 Beyond the pixels and code, I'm art-obsessed. I believe blending technology and creativity can take programming (and art) to new heights. I enjoy producing unique and visually stunning AV projects in my free time. 
 
-<a href="https://googs0.github.io" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">googs0.github.io</a>
+<a href="https://googs0.github.io" onclick="window.open('https://googs0.github.io', '_blank'); return false;">googs0.github.io</a>
