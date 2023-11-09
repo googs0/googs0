@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Michael
+## Hi there 👋 I'm Michael
 
 In my former life, I earned my wings as an artist, audio engineer, and videographer--now, I channel that multidimensional experience into my programming endeavors. I stumbled into the realm of coding while making an 
 audiovisual art project. It's where my creative roots and logical, data-oriented mind collided
