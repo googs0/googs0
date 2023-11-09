@@ -12,5 +12,5 @@ Numbers tell stories, and I'm here to decode them. Whether it's natural language
 ### 🎨 Art Lover
 Beyond the pixels and code, I'm art-obsessed. I believe blending technology and creativity can take programming (and art) to new heights. I enjoy producing unique and visually stunning AV projects in my free time. 
 
-<a href="https://googs0.github.io" target="_blank" rel="noopener noreferrer">googs0.github.io</a>
+[googs0.github.io](https://googs0.github.io)
 
