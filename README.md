@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Michael
 
 In my former life, I earned my wings as an artist, audio engineer, and videographer--now, I channel that multidimensional experience into my programming endeavors. I stumbled into the realm of coding while making an 
-audiovisual art project. It's where my creative roots and logical, data-oriented mind collided
+audiovisual art project. It's where my creative roots and logical, data-oriented mind collided.
 
 ### 💻 Programmer
 I'm passionate about coding, exploring fascinating domains from creating immersive audiovisual performances with IoT sensors to delving into advanced baseball statistics and diving deep into regression and predictive modeling. My love for programming knows no bounds.
