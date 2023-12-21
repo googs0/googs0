@@ -9,8 +9,4 @@ I'm passionate about coding and exploring the vastness, my love for programming 
 Decoding data is fun.
 
 ### 🎨 Art Lover
-Beyond the pixels and code, I'm art-obsessed. 
-
-Let's chat!
-[googs0.github.io](https://googs0.github.io)
-
+Beyond the pixels and code, I'm art-obsessed.
