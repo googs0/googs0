@@ -1,10 +1,14 @@
-## Hi there 👋 I'm Michael
+## Hi 🐸 I'm Michael
 
-### 💻 Programmer
-I'm passionate about programming.
+### 💻 Programming is fun sometimes
+### 🐶 I love my dog, Morphy
+### 🛝 Creativity is supreme
 
-### 📊 Data Enthusiast
-Decoding data is fun.
-
+### 🎛 Circuit Bender
 ### 🎨 Art Lover
-Beyond the pixels and code, I'm art-obsessed.
+### 🌲 Nature Explorer
+### 🍋 Lemon Fanatic
+### 🚧 Destruction Connoisseur
+### 🛹 Skateboarding Idolizer
+### 🥽 Glow-In-The-Dark Green Aficionado
+
