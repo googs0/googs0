@@ -1,8 +1,8 @@
 ## Hi 🐸 I'm Michael
 
 ### 💻 Programming is fun sometimes
-### 🐶 I love my dog, Morphy
-### 🛝 Creativity is supreme
+
+<br>
 
 ### 🎛 Circuit Bender
 ### 🎨 Art Lover
